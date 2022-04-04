@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Okonato / Rafał
+- 👀 I’m interested in building circuits & programming Arduino Procjects, making WEB SITES in PHP, mySQL and OTHER
+- 🌱 I’m currently learning C++, PYTHON & other
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Facebook.com/okonatopl & okonatopl@gmail.com
+- my Web Site www.okonato.pl
